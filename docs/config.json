@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "851087cc-f035-40e8-a436-7167ecd18632",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing Mango locally",
+      "blurb": "Learn how to install Mango locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "f123490e-0dc3-454d-a1f4-a2d41d655086",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn Mango",
+      "blurb": "An overview of how to get started from scratch with Mango"
+    },
+    {
+      "uuid": "039e58e4-6e61-49db-a33b-0558452cf306",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the Mango track",
+      "blurb": "Learn how to test your Mango exercises on Exercism"
+    },
+    {
+      "uuid": "2ad9cfa1-3fad-4896-a9d9-6d2ca65adc1d",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful Mango resources",
+      "blurb": "A collection of useful resources to help you master Mango"
+    }
+  ]
+}
